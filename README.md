@@ -44,3 +44,6 @@ python manage.py makemigrations
 python manage.py migrate
 
 
+## Örnekteki dosyayı kullanmak için:
+
+kurmuş olduğunuz env ile aynı klasör içine atıp env çalıştırıp sunucunuzu başlatabilirsiniz.
